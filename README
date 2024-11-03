@@ -23,6 +23,7 @@ Using python and html and integrating them using flask and importing psutil we f
 -> Tools used: VS Code,NotePad
 
 ## Run
+FYI: use app.py for it to work mood.html is for site template
 py main.py
 click and follow the link http://127.0.0.1:5000
 and

@@ -1,0 +1,30 @@
+## Project Name:
+CPU Mood Detector
+
+## Basic Details
+Team Name: Allan Shibu's Team
+
+### Team Members: Individual
+### Team Member: Allan Shibu Koshy - [Mar Baselious Christian College of Engineering and Technology]
+
+## Project Description:
+What if CPU had emotions?, showing those emotions or moods is done in the program.
+
+## The Problem:
+The problem is that CPU's are just processing units so what if CPU's had emotion to check if they working all right so this is basis of the problrm being created
+
+## The Solution
+Using python and html and integrating them using flask and importing psutil we find "MOOD" of the CPU.
+
+## Technical Details
+-> Languages used:Python,HTML,CSS
+-> Framwork used:FLASK
+-> Library used:psutil
+-> Tools used: VS Code,NotePad
+
+## Run
+py main.py
+click and follow the link http://127.0.0.1:5000
+and
+Enjoy the mood of the CPU
+
